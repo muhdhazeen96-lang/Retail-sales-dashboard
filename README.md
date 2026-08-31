@@ -90,5 +90,4 @@ The analysis helped identify:
 ## 👨‍💻 Author
 
 **Muhammed Hazeen**
-
-Aspiring Data Analyst | Excel | Power BI | SQL | Python
+ Data Analyst | Excel | Power BI | SQL | Python
