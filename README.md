@@ -2,9 +2,10 @@
 
 ## 📌 Project Overview
 
-This project focuses on analyzing retail sales data using **Microsoft Excel** and **Power BI**.
-The objective is to understand sales performance, identify top-performing products and categories, analyze sales trends, and generate meaningful business insights through an interactive Power BI dashboard.
+This project focuses on analyzing retail sales data using Microsoft Excel and Power BI. The objective is to understand sales performance, identify top-performing products and categories, analyze monthly and regional sales trends, and generate meaningful business insights through data analysis and visualization.
+
 ---
+
 ## 🎯 Project Objectives
 
 - Analyze overall retail sales performance
@@ -12,58 +13,75 @@ The objective is to understand sales performance, identify top-performing produc
 - Analyze product category performance
 - Understand monthly sales trends
 - Analyze regional sales performance
-- Identify key business insights from the data
-- Create an interactive dashboard using Power BI
+- Create Excel Pivot Table analysis
+- Create an interactive Power BI dashboard
+- Generate meaningful business insights
+
 ---
+
 ## 🛠️ Tools & Technologies
 
 | Tool | Purpose |
-|------|---------|
-| Microsoft Excel | Data cleaning and preparation |
-| Power BI | Data visualization and dashboard creation |
+|---|---|
+| Microsoft Excel | Data cleaning, preparation and Pivot Table analysis |
+| Power BI | Interactive dashboard and data visualization |
+
 ---
+
 ## 🔄 Project Workflow
 
-**Raw Data → Data Cleaning & Preparation → Data Analysis → Power BI Dashboard → Business Insights**
+**Raw Data → Data Cleaning → Excel Pivot Analysis → Power BI Dashboard → Business Insights**
 
 ### 1. Data Preparation
 
-The retail sales dataset was prepared and cleaned using Microsoft Excel.
-The process included:
+The retail sales dataset was prepared and cleaned using Microsoft Excel. The process included:
+
 - Checking and organizing the dataset
 - Handling data inconsistencies
 - Removing duplicate records where required
 - Formatting columns appropriately
-- Preparing the data for Power BI
+- Preparing the dataset for analysis
 
-### 2. Data Analysis
+### 2. Excel Pivot Table Analysis
 
-The prepared dataset was analyzed to understand:
-- Sales performance
+Pivot Tables were created in Excel to analyze the dataset from different business perspectives.
+
+The analysis includes:
+
+- **Region-wise Sales Analysis**
+- **Product-wise Quantity and Sales Analysis**
+- **Monthly Sales Analysis**
+- **Sales by Region Chart**
+
+These Pivot Tables helped summarize the raw sales data and identify important sales patterns.
+
+### 3. Power BI Dashboard
+
+The cleaned dataset was imported into Power BI to create an interactive dashboard.
+
+The dashboard provides insights into:
+
+- Overall sales performance
 - Product performance
 - Category performance
 - Monthly sales trends
-- Regional performance
-
-### 3. Dashboard Development
-
-The cleaned data was imported into Power BI to create an interactive dashboard.
-The dashboard provides a visual overview of important sales metrics and allows users to explore sales performance through different categories and dimensions.
----
-## 📊 Dashboard
-The Power BI dashboard provides insights into:
-- Overall sales performance
-- Product and category performance
-- Sales trends
-- Regional performance
+- Regional sales performance
 - Key sales metrics
 
-### Dashboard Preview
-*Dashboard screenshots will be added here.*
 ---
+
+## 📊 Dashboard Preview
+
+The Power BI dashboard provides an interactive visual overview of the retail sales data.
+
+**Dashboard screenshots will be added here.**
+
+---
+
 ## 💡 Key Insights
 
 The analysis helped identify:
+
 - Peak sales periods
 - High-performing products
 - Strong-performing product categories
@@ -71,12 +89,16 @@ The analysis helped identify:
 - Areas with potential for sales improvement
 
 ---
+
 ## 📁 Project Files
-- `RetailSales excelsheet.xlsx` — Retail sales dataset
-- `miniprjct powerbi(cleaned data).pbix` — Power BI project file
+
+- `RetailSales excelsheet.xlsx` — Original retail sales dataset
+- `Retail_Sales_Pivot_Analysis.xlsx` — Excel Pivot Table analysis and regional sales chart
+- `miniprjct powerbi(cleaned data).pbix` — Cleaned Power BI project file
 - `powerbi dashboard.pbix` — Final Power BI dashboard
 
 ---
+
 ## 🚀 Future Improvements
 
 - Add sales forecasting
@@ -89,5 +111,14 @@ The analysis helped identify:
 
 ## 👨‍💻 Author
 
+muhammed hazeen k p
+
+
+
+
+
+
+
 **Muhammed Hazeen**
- Data Analyst | Excel | Power BI | SQL | Python
+
+Data Analyst | Excel | Power BI | SQL | Python
