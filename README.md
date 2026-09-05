@@ -94,7 +94,6 @@ The analysis helped identify:
 
 - `RetailSales excelsheet.xlsx` — Original retail sales dataset
 - `Retail_Sales_Pivot_Analysis.xlsx` — Excel Pivot Table analysis and regional sales chart
-- `miniprjct powerbi(cleaned data).pbix` — Cleaned Power BI project file
 - `powerbi dashboard.pbix` — Final Power BI dashboard
 
 ---
